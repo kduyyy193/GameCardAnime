@@ -1,0 +1,284 @@
+{
+	"asset": [
+		{
+			"name": "A-chan",
+			"avatar": "src/public/assets/img/A-chan.png"
+		},
+		{
+			"name": "Iofi",
+			"avatar": "src/public/assets/img/Iofi.png"
+		},
+		{
+			"name": "Haato",
+			"avatar": "src/public/assets/img/Akai_Haato_Portrait.png"
+		},
+		{
+			"name": "Aki",
+			"avatar": "src/public/assets/img/Aki_Rosenthal_Portrait.png"
+		},
+		{
+			"name": "Kanata",
+			"avatar": "src/public/assets/img/Amane_Kanata_-_Portrait.png"
+		},
+		{
+			"name": "Anya",
+			"avatar": "src/public/assets/img/Anya_Melfissa_Portrait.png"
+		},
+		{
+			"name": "Oga",
+			"avatar": "src/public/assets/img/Aragami_Oga_-_Portrait.png"
+		},
+		{
+			"name": "Aruran",
+			"avatar": "src/public/assets/img/Arurandeisu_-_Portrait.png"
+		},
+		{
+			"name": "Astel",
+			"avatar": "src/public/assets/img/Astel_Leda_-_Portrait.png"
+		},
+		{
+			"name": "Risu",
+			"avatar": "src/public/assets/img/Ayunda_Risu_-_Portrait.png"
+		},
+		{
+			"name": "AZKi",
+			"avatar": "src/public/assets/img/AZKi_2021_Portrait.png"
+		},
+		{
+			"name": "Fauna",
+			"avatar": "src/public/assets/img/Ceres_Fauna_Portrait.png"
+		},
+		{
+			"name": "Enma",
+			"avatar": "src/public/assets/img/Enma-chan.png"
+		},
+		{
+			"name": "Gura",
+			"avatar": "src/public/assets/img/Gawr_Gura_Portrait.png"
+		},
+		{
+			"name": "Baelz",
+			"avatar": "src/public/assets/img/Hakos_Baelz_Portrait.png"
+		},
+		{
+			"name": "Miyabi",
+			"avatar": "src/public/assets/img/Hanasaki_Miyabi_-_Portrait.png"
+		},
+		{
+			"name": "Luna",
+			"avatar": "src/public/assets/img/Himemori_Luna_-_Portrait.png"
+		},
+		{
+			"name": "Suisei",
+			"avatar": "src/public/assets/img/Hoshimachi_Suisei_2019_Portrait.png"
+		},
+		{
+			"name": "Marine",
+			"avatar": "src/public/assets/img/Houshou_Marine_-_Portrait.png"
+		},
+		{
+			"name": "Korone",
+			"avatar": "src/public/assets/img/Inugami_Korone_Portrait.png"
+		},
+		{
+			"name": "IRyS",
+			"avatar": "src/public/assets/img/IRyS_Portrait.png"
+		},
+		{
+			"name": "J-chad",
+			"avatar": "src/public/assets/img/J-chad_-_Profile_Picture.png"
+		},
+		{
+			"name": "Jenma",
+			"avatar": "src/public/assets/img/Jenma.png"
+		},
+		{
+			"name": "Kira",
+			"avatar": "src/public/assets/img/Kagami_Kira_-_Portrait.png"
+		},
+		{
+			"name": "Shien",
+			"avatar": "src/public/assets/img/Kageyama_Shien_-_Portrait.png"
+		},
+		{
+			"name": "Izuru",
+			"avatar": "src/public/assets/img/Kanade_Izuru_-_Portrait.png"
+		},
+		{
+			"name": "Coco",
+			"avatar": "src/public/assets/img/Kiryu_Coco_-_Portrait.png"
+		},
+		{
+			"name": "Temma",
+			"avatar": "src/public/assets/img/Kishido_Temma_-_Portrait.png"
+		},
+		{
+			"name": "Ollie",
+			"avatar": "src/public/assets/img/Kureiji_Ollie_Portrait.png"
+		},
+		{
+			"name": "MaID",
+			"avatar": "src/public/assets/img/MaID.png"
+		},
+		{
+			"name": "Aloe",
+			"avatar": "src/public/assets/img/Mano_Aloe_Portrait.png"
+		},
+		{
+			"name": "Aqua",
+			"avatar": "src/public/assets/img/Minato_Aqua_Portrait.png"
+		},
+		{
+			"name": "Nene",
+			"avatar": "src/public/assets/img/Momosuzu_Nene_2021_Portrait.png"
+		},
+		{
+			"name": "Moona",
+			"avatar": "src/public/assets/img/Moona_Hoshinova_Portrait.png"
+		},
+		{
+			"name": "Calliope",
+			"avatar": "src/public/assets/img/Mori_Calliope_Portrait.png"
+		},
+		{
+			"name": "Shion",
+			"avatar": "src/public/assets/img/Murasaki_Shion_Portrait.png"
+		},
+		{
+			"name": "Ayame",
+			"avatar": "src/public/assets/img/Nakiri_Ayame_Portrait.png"
+		},
+		{
+			"name": "Mumei",
+			"avatar": "src/public/assets/img/Nanashi_Mumei_Portrait.png"
+		},
+		{
+			"name": "Matsuri",
+			"avatar": "src/public/assets/img/Natsuiro_Matsuri_Portrait.png"
+		},
+		{
+			"name": "Okayu",
+			"avatar": "src/public/assets/img/Nekomata_Okayu_img.png"
+		},
+		{
+			"name": "Ina",
+			"avatar": "src/public/assets/img/Ninomae_Inanis_Portrait.png"
+		},
+		{
+			"name": "Polka",
+			"avatar": "src/public/assets/img/Omaru_Polka_Portrait.png"
+		},
+		{
+			"name": "Omega",
+			"avatar": "src/public/assets/img/Omega.png"
+		},
+		{
+			"name": "Mio",
+			"avatar": "src/public/assets/img/Ookami_Mio_Portrait.png"
+		},
+		{
+			"name": "Subaru",
+			"avatar": "src/public/assets/img/Oozora_Subaru_Portrait.png"
+		},
+		{
+			"name": "Kronii",
+			"avatar": "src/public/assets/img/Ouro_Kronii_Portrait.png"
+		},
+		{
+			"name": "Reine",
+			"avatar": "src/public/assets/img/Pavolia_Reine_Portrait.png"
+		},
+		{
+			"name": "Rikka",
+			"avatar": "src/public/assets/img/Rikka_-_Portrait.png"
+		},
+		{
+			"name": "Roboco",
+			"avatar": "src/public/assets/img/Roboco_san.png"
+		},
+		{
+			"name": "Miko",
+			"avatar": "src/public/assets/img/Sakura_Miko_2020_Portrait.png"
+		},
+		{
+			"name": "Shinove",
+			"avatar": "src/public/assets/img/Shinove-pic.png"
+		},
+		{
+			"name": "Fubuki",
+			"avatar": "src/public/assets/img/Shirakami_Fubuki_Portrait.png"
+		},
+		{
+			"name": "Flare",
+			"avatar": "src/public/assets/img/Shiranui_Flare_-_Portrait_02.png"
+		},
+		{
+			"name": "Noel",
+			"avatar": "src/public/assets/img/Shirogane_Noel_-_Portrait.png"
+		},
+		{
+			"name": "Botan",
+			"avatar": "src/public/assets/img/Shishiro_Botan_Portrait.png"
+		},
+		{
+			"name": "Kiara",
+			"avatar": "src/public/assets/img/Takanashi_Kiara_Portrait.png"
+		},
+		{
+			"name": "Sora",
+			"avatar": "src/public/assets/img/Tokino_Sora_2020_Portrait.png"
+		},
+		{
+			"name": "Towa",
+			"avatar": "src/public/assets/img/Tokoyami_Towa_-_Portrait.png"
+		},
+		{
+			"name": "Kaoru",
+			"avatar": "src/public/assets/img/Tsukishita_Kaoru_-_Portrait.png"
+		},
+		{
+			"name": "Sana",
+			"avatar": "src/public/assets/img/Tsukumo_Sana_Portrait.png"
+		},
+		{
+			"name": "Watame",
+			"avatar": "src/public/assets/img/Tsunomaki_Watame_-_Portrait.png"
+		},
+		{
+			"name": "Rushia",
+			"avatar": "src/public/assets/img/Uruha_Rushia_-_Portrait.png"
+		},
+		{
+			"name": "Pekora",
+			"avatar": "src/public/assets/img/Usada_Pekora_-_Portrait.png"
+		},
+		{
+			"name": "Amelia",
+			"avatar": "src/public/assets/img/Watson_Amelia_Portrait.png"
+		},
+		{
+			"name": "YAGOO",
+			"avatar": "src/public/assets/img/YAGOO_headshot.png"
+		},
+		{
+			"name": "Suzaku",
+			"avatar": "src/public/assets/img/Yakushiji_Suzaku_-_Portrait.png"
+		},
+		{
+			"name": "Mel",
+			"avatar": "src/public/assets/img/Yozora_Mel_Portrait.png"
+		},
+		{
+			"name": "Lamy",
+			"avatar": "src/public/assets/img/Yukihana_Lamy_Portrait.png"
+		},
+		{
+			"name": "Roberu",
+			"avatar": "src/public/assets/img/Yukoku_Roberu_-_Portrait.png"
+		},
+		{
+			"name": "Choco",
+			"avatar": "src/public/assets/img/Yuzuki_Choco_Portrait.png"
+		}
+	]
+}
