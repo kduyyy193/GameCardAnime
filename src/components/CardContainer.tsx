@@ -4,7 +4,6 @@ import CardCP from "./Card";
 
 const CardContainer = (props: {pile: Card[], onClick:  Function}) => {
     const drawPile  = props.pile.map((card) => (
-        console.log(card.avatar),
         <CardCP 
             name={card.name}
             avatar={card.avatar}
@@ -12,7 +11,6 @@ const CardContainer = (props: {pile: Card[], onClick:  Function}) => {
             onClick={props.onClick}
         />
         ))
-        console.log(drawPile)
   return (
      <div className="card-container">{drawPile}</div>
   )
